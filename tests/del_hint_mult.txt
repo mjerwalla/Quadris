@@ -1,0 +1,9 @@
+I clock drop
+I clock 2right drop
+I clock 4right drop
+I clock 5right drop
+I clock 6right drop
+I clock 7right drop
+I clock 8right drop
+I clock 10right drop
+

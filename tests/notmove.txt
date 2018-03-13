@@ -1,0 +1,13 @@
+drop
+drop
+drop
+drop
+O 5right
+down
+down
+down
+down
+down
+down
+down
+down

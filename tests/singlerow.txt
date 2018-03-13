@@ -1,0 +1,13 @@
+I drop
+O drop
+O 10right drop
+S 4right drop
+T 6right drop
+T clockwise clockwise clockwise clockwise drop
+L 7right drop
+I clockwise 10right drop
+I 3right drop
+I 3right drop
+Z 6right drop
+I clock drop
+
